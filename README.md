@@ -7,6 +7,7 @@ If you try Upper character or special character you will stuck in infinite loop.
 
 
 This takes input from you crack it.
+It will take time.
 
 Made by Nilesh 
 
